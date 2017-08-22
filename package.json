@@ -1,0 +1,20 @@
+{
+  "name": "react-native-autobahnjs",
+  "version": "0.1.6",
+  "description": "A JavaScript library for WAMP in react-native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies":{
+  	"bufferutil":">= 1.2.1",
+  	"crypto-js":">= 3.1.5",
+  	"utf-8-validate": ">= 1.2.1",
+  	"msgpack-lite": ">= 0.1.17",
+  	"events": ">= 1.1.0",
+  	"net": ">= 1.0.2",
+  	"query-string": ">= 4.1.0"
+  	},
+  "author": "steven li",
+  "license": "MIT"
+}
